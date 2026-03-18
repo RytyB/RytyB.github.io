@@ -7,6 +7,6 @@ These are some code-y and data-y projects that I've worked on and prettied up. H
 
 ## Projects
 
-**[Marathon Training Analysis]
-In 2025 I ran a marathon and didn't do as well as I would have liked. Here's what the data said about that.
+**[Marathon Training Analysis](https://RytyB.github.io/marathon-analysis)**
+In 2025 I ran a marathon much slower than I would have liked to. Here's what the data told me.
 
