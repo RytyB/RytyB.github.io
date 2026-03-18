@@ -1,8 +1,6 @@
 # Quarto render artifacts
 _site/
 .quarto/
-*.html
 *_files/
 /.quarto/
 **/*.quarto_ipynb
-_cite/
