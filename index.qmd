@@ -7,8 +7,8 @@ These are some code-y and data-y projects that I've worked on and prettied up. H
 
 ## Projects
 
-**[Marathon Training Analysis](https://RytyB.github.io/marathon_post-mortem)**
+**[Marathon Training Analysis](https://RytyB.github.io/marathon_post-mortem)** \
 In 2025 I ran a marathon much slower than I would have liked to. Here's what the data told me.
 
-**[Comparison of LLM Tools for Data Analytics](https://RytyB/github.io/llm_marathon_analytics)**
+**[Comparison of LLM Tools for Data Analytics](https://RytyB.github.io/llm_marathon_analytics)** \
 As of 2026, can LLMs do the job of an entry-level data analyst? Here's what I think. 
